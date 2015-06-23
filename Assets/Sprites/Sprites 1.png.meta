@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 1854b18652fcc8a4f95a225405db8cd7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shield
+    21300002: Sprites 1_1
+    21300004: speed
+    21300006: life
+    21300008: special_damage
+    21300010: shield
+    21300012: rock_big
+    21300014: rock_small
+    21300016: star_big
+    21300018: star_small
+    21300020: hero_normal
+    21300022: hero_crash
+    21300024: enemy_1
+    21300026: enemy_2
+    21300028: enemy_3
+    21300030: enemy_4
+    21300032: hero_special
+    21300034: hero_shield
+    21300036: boss_1
+    21300038: boss_2
+    21300040: boss_3
+    21300042: laser_green
+    21300044: light_green
+    21300046: laser_red
+    21300048: light_red
+    21300050: life_ui
+    21300052: exit_ui
+    21300054: game_over_ui
+    21300056: yes
+    21300058: retry
+    21300060: button_1
+    21300062: button_2
+    21300064: title
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: shield
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 908
+        width: 151
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 764
+        width: 252
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: speed
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 815
+        width: 7
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 998
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special_damage
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 962
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shield
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 923
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rock_big
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 781
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rock_small
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 794
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_big
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 772
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star_small
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 775
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_normal
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_crash
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 680
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 680
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 680
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 680
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 680
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_special
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 556
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shield
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 564
+        width: 123
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 556
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 530
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 573
+        width: 140
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_green
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 497
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: light_green
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 487
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_red
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 497
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: light_red
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 487
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life_ui
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 503
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: exit_ui
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 416
+        width: 368
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_over_ui
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 357
+        width: 286
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yes
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 361
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: retry
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 361
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 276
+        width: 286
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 276
+        width: 286
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 598
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
